@@ -1,6 +1,6 @@
 using System;
 
-namespace BuildingAccessWeb.Models
+namespace Marcusca10.Samples.BuildingAccess.Web.Models
 {
     public class ErrorViewModel
     {

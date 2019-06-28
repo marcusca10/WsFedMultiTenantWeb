@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using BuildingAccessWeb.Models;
+using Marcusca10.Samples.BuildingAccess.Web.Models;
 
-namespace BuildingAccessWeb.Controllers
+namespace Marcusca10.Samples.BuildingAccess.Web.Controllers
 {
     public class HomeController : Controller
     {

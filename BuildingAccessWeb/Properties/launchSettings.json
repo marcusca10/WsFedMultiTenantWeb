@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BuildingAccessWeb": {
+    "Marcusca10.Samples.BuildingAccess.Web": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

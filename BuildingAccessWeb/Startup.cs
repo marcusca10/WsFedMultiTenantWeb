@@ -9,11 +9,11 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using BuildingAccessWeb.Data;
+using Marcusca10.Samples.BuildingAccess.Web.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BuildingAccessWeb
+namespace Marcusca10.Samples.BuildingAccess.Web
 {
     public class Startup
     {
