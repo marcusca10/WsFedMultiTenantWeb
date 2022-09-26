@@ -17,8 +17,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-      with:
-        path: /test-checkout
 
     - name: Inclusiveness Analyser scan
       uses: microsoft/InclusivenessAnalyzer@v0.1.6-beta
