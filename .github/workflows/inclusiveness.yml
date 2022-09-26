@@ -21,4 +21,4 @@ jobs:
         path: /test-checkout
 
     - name: Inclusiveness Analyser scan
-      uses: microsoft/InclusivenessAnalyser@v0.1.7-beta
+      uses: microsoft/InclusivenessAnalyzer@v0.1.6-beta
